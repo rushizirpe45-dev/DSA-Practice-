@@ -11,12 +11,14 @@
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
