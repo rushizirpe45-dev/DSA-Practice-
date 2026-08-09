@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0075-sort-colors/) | Medium |
@@ -42,6 +43,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -92,5 +94,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
