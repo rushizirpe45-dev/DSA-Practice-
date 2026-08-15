@@ -9,14 +9,12 @@ class Solution {
         for(int a=0;a<=k-1;a++){
             sum+=arr[a];
         }
-        avg=sum/k;
         i++;
         j++;
-        if(avg>=threshold) ans++;
+        if(sum/k>=threshold) ans++;
         while(j<n){
             sum=sum-arr[i-1]+arr[j];
-            avg=sum/k;
-            if(avg>=threshold) ans++;
+            if(sum/k>=threshold) ans++;
             i++;
             j++;
         }
