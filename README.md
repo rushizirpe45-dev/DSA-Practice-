@@ -56,6 +56,7 @@
 | [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
+| [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@
 | [0053-maximum-subarray](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,16 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
