@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -112,4 +113,8 @@
 | [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 <!---LeetCode Topics End-->
