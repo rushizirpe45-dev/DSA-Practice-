@@ -44,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0075-sort-colors/) | Medium |
@@ -138,4 +139,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
