@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -64,6 +65,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Brainteaser
