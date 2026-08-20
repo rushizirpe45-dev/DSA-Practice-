@@ -29,6 +29,7 @@
 | [0904-fruit-into-baskets](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -44,6 +45,7 @@
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | [0189-rotate-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +92,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +138,7 @@
 | [0904-fruit-into-baskets](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Brainteaser
