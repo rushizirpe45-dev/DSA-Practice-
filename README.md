@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
