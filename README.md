@@ -36,6 +36,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1025-divisor-game/) | Easy |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +189,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
