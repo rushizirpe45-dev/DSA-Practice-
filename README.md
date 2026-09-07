@@ -138,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +200,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
