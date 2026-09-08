@@ -139,6 +139,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,14 +206,17 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
