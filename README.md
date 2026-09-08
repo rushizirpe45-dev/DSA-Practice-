@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0268-missing-number/) | Easy |
@@ -138,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
@@ -146,6 +148,7 @@
 | [0048-rotate-image](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0200-number-of-islands/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,12 +207,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
