@@ -204,12 +204,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
