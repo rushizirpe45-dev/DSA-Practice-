@@ -1,21 +1,22 @@
 class Solution {
-    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        int n = rooms.size();
-        boolean[] ver = new boolean[n];
-        Queue<Integer> q = new LinkedList<>();
-        q.add(0);
-        ver[0] = true;
-        while (q.size() > 0) {
-            int front = q.remove();
-            List<Integer> list = rooms.get(front);
-            for (int i = 0; i < list.size(); i++) {
-                int a = list.get(i);
-                if (!ver[a]) {
-                    q.add(a);
-                    ver[a] = true;
-                }
+
+    public void dfs(int start, boolean[] vis, List<List<Integer>> adj) {
+        vis[start] = true;
+        for (int neighbor : adj.get(start)) {
+            if (!vis[neighbor]) {
+                dfs(neighbor,vis,adj);
             }
         }
+    
+    }
+
+    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+
+        int n = rooms.size();
+        boolean[] ver = new boolean[n];
+
+        dfs(0,ver,rooms);
+
         for (int i = 0; i < n; i++) {
             if (!ver[i]) {
                 return false;
