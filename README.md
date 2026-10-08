@@ -36,6 +36,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
@@ -105,6 +106,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1872-stone-game-viii](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1872-stone-game-viii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rushizirpe45-dev/DSA-Practice-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
